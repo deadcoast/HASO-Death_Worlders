@@ -24,7 +24,7 @@ Baegk (Antagonists):
   weakness: Hive-mind predictable, cannot adapt to gravity warfare or human tactics
 ```
 
-**SIZE RATIO CRITICAL**: Humans are 10x taller than Auruleans, 14.5x taller than Portavians
+SIZE RATIO CRITICAL: Humans are 10x taller than Auruleans, 14.5x taller than Portavians
 
 ---
 
@@ -63,11 +63,11 @@ P_survival = e^(-E_extinction)
 
 ## Human Unique Advantages [x]
 
-1. **Death World Physiology**: 10x strength, 3x bone density, 2x cardiovascular efficiency vs galactic average
-2. **ForreFold Drive**: Quad micro-stars (15M Kelvin each), gravity manipulation FTL, 1000x lightspeed, weaponizable
-3. **Innovation Speed**: 33x faster (3k vs 100k years to spaceflight), "practicality > design" philosophy
-4. **Psychological**: Extreme stress tolerance, pack-bonding with aliens, protective aggression, anti-bully instinct
-5. **Combat Evolution**: Prey-species intelligence (tactics) + death-world strength = superior warriors
+1. Death World Physiology: 10x strength, 3x bone density, 2x cardiovascular efficiency vs galactic average
+2. ForreFold Drive: Quad micro-stars (15M Kelvin each), gravity manipulation FTL, 1000x lightspeed, weaponizable
+3. Innovation Speed: 33x faster (3k vs 100k years to spaceflight), "practicality > design" philosophy
+4. Psychological: Extreme stress tolerance, pack-bonding with aliens, protective aggression, anti-bully instinct
+5. Combat Evolution: Prey-species intelligence (tactics) + death-world strength = superior warriors
 
 ---
 
@@ -268,7 +268,7 @@ Year 56+: New galactic era, human-Coalition alliance dominates
 
 ## Story Generation Guidelines
 
-**ALWAYS INCLUDE:**
+ALWAYS INCLUDE:
 
 - Specific numbers (3,400 bioships, 47,000 deaths, 92% casualties)
 - Technical details (petawatt output, 0.3c railguns, 15M Kelvin fusion)
@@ -276,7 +276,7 @@ Year 56+: New galactic era, human-Coalition alliance dominates
 - Emotional beats (Portavian child on human shoulder, Elder's speech)
 - Formula applications (show Death World Theory IN ACTION during combat)
 
-**NEVER DO:**
+NEVER DO:
 
 - Make humans invincible (2.6% losses, 47k deaths = real cost)
 - Make Coalition stupid (they're advanced, just risk-averse)
@@ -284,7 +284,7 @@ Year 56+: New galactic era, human-Coalition alliance dominates
 - Skip ForreFold tech details (quad micro-stars, gravity manipulation)
 - Ignore Greater Good Initiative (central to human identity)
 
-**TONE BALANCE:**
+TONE BALANCE:
 
 - Epic space opera + intimate character moments
 - Humor from size differences (kneeling, shoulder-riding)
@@ -299,4 +299,4 @@ Year 56+: New galactic era, human-Coalition alliance dominates
 
 ---
 
-**END QUICK REFERENCE** | Use full document for deep worldbuilding details
+END QUICK REFERENCE | Use full document for deep worldbuilding details
