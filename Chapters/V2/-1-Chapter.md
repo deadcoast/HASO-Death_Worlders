@@ -14,21 +14,35 @@ Then someone asked the obvious question: What if we stopped trying to harvest st
 
 Practicality over design. Always.
 
-"ForreFold spooling sequence initiating," called out Commander Wei from the helm. The *Tenacity* shuddered as the four micro-suns began their coordinated dance, gravitational fields reaching out ahead of the ship like invisible hands. "Gravity wells forming at mark one hundred thousand klicks."
+"ForreFold spooling sequence initiating," called out Dr Chen from the helm. The *Tenacity* shuddered as the four micro-suns began their coordinated dance, gravitational fields reaching out ahead of the ship like invisible hands. "Gravity wells forming at mark one hundred thousand klicks."
 
-Captain Marcus Webb stood at the center of the bridge, hands clasped behind his back. He was tall even for a human—one point nine meters—with the kind of lean, weathered build that came from growing up on Luna Station where even 0.16g required constant effort to maintain bone density. "Dr. Chen, are we certain about the math?"
+Captain Marcus Webb stood at the center of the bridge, hands clasped behind his back. He was tall even for a human—one point nine meters, a weathered build influenced from an upbringing on Luna Station where 0.16g required constant effort to maintain consistent bone density. "Dr. Chen, are we certain about the math?"
 
-Chen turned from the window. "As certain as we can be, sir. The Obscuration Zone isn't just empty space—it's a five-hundred-million-light-year stretch of dark matter density anomalies, intergalactic radiation interference, and gravitational lensing so thick that conventional observation is impossible. We've been calling it the 'Dead Zone' for three thousand years because we couldn't see through it."
+Chen turned from the window. "As certain as we can be, sir. These new readings show Obscuration Anomaly bordering the Milky Way isn't just empty dense radiation shrouds—it's a gravity well. Sir... this new data shows evidence of a gravity well that stretches for five-hundred-million-light-years. Our existence in Sol bends, redirects time and space to everyone outside it. We must be ghosts to the known. For three thousand years mankind has looked to the stars, questioning if we are alone. All this time we have been hidden... by sheer chance. Just a bit closer, and well be able to see more-"
 
-"But the ForreFold Drive doesn't need to see through it," Webb finished.
+"The ForreFold Drive doesn't need to see through it," Webb finished.
 
-"Exactly." Chen pulled up a holographic model of the space ahead. The Obscuration Zone appeared as a roiling mass of red and black, like a cosmic bruise stretched across the void. "We're not trying to penetrate the interference. We're folding spacetime around it. The gravity wells we're generating will bend reality itself—we're cutting a door through the wall instead of trying to see over it."
+"Sir?" Chen pulled up a holographic model of the space ahead. The Obscuration Anomaly appeared invisible to the naked eye, to the *Tenasity's* sensors; a roiling mass of red and black, like a cosmic bruise stretched across the void. 
+
+"Your drives, Dr. Chen, to my understanding the ForreFold utilize gravitational bending?" Webb smirked a bit.
+
+"Yes, sir. Through a chemical reaction similar to our sun, the tricky part was containing the-" Chen answered nervously but Webb interrupted.
+
+"Confirmation Zeta_First-C" Webb routinely spouted off, not giving way or context to the gravity of the statement. "Chen, status of ForreFold drive operation with new proximal data?"
+
+"98% status calibration, 99... Data reads show ForreFold drives...." Chen paused. "EUREKA!" she screamed as she stood with both arms raised, something about scientific traditions. "Marcus-err, Captain" Chen studdered nervously, gently nodding at Webb. "We-we've done it. New data shows ForreFold drive operates on identical principles as Obscuration Anomaly; Gravity Wells."
+
+Webb's slight grin spread into a teethy smile. "Democratic Alliance of the Geological Republic; DAGR Exploration vessel Tenacity reporting Zeta_First-C is confirmed, ForreFold Drive confirmed nominal operations. Escalating mission directive to CLASSIFIED-Prime_First-C." Webb paused to look at his crew for a moment, a pause to heed any objections. When none followed, he turned to Chen.
+
+"Set a course, Dr. Chen. Signal Officer, broadcast force override; all frequencies." Webb adjusted his collar, then turned to the bridge knowing the weight of his next words.
+
+"Tenacity, this is Captain Marcus Webb. Today we etch our footprint into the histories of Mankind. On this day, humanity no longer belongs to the Milky Way and its mysteries. Today the Dominion of man is reborn with eyes that see true vision. Today we stop asking questions to answers, and start seeking them out..." Webb delivered his speech to 255 billion people. Most of the human species, from the home planet of Earth, to the far reaches of the outer cluster colonies, were listening. The age old question was nearing its final answer, and no human soul could resist the temptation of age old mysteries. When he was finished, his chest unpuffed, his granite jawline unclenched, he slouched into the captains chair and exhaled, smiling in turn to chen.
 
 "And if the math is wrong?"
 
 Chen met his eyes. "Then we'll find out in about thirty seconds, sir."
 
-Webb nodded slowly, then turned to address the bridge crew. Forty-three people, all of them volunteers, all of them knowing that *Tenacity* might simply vanish into the void and never return. Practical over elegant. That was humanity's philosophy, but it didn't mean they were reckless.
+Webb nodded slowly, then turned to address the bridge crew. Forty-three people, all of them volunteers, all of them knowing that *Tenacity* might simply vanish into the void and never return. It wasnt ideal but someone had to do it. Practical over elegant. That was humanity's philosophy, but it didn't mean they were reckless.
 
 Well. Not *completely* reckless.
 
